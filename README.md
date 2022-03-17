@@ -9,14 +9,14 @@
 <img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/laptop--v1.png"/>
 <p align="left">
     <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/languages/java.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/languages/js.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/languages/html.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/languages/css3.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/languages/mysql.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/languages/dart.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/languages/php.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/languages/python.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/java.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/js.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/html.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/css3.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/mysql.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/dart.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/php.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/python.svg" height="35" />
 </p>
 
 <br/>
@@ -24,11 +24,11 @@
 ### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 <img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/full-tool-storage-box-.png"/>
 <p align="left">
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/frameworks/react.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/frameworks/angular.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/frameworks/vue.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/frameworks/nodejs_larger.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/frameworks/flutter.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/frameworks/nodejs_larger.svg" height="35" />
+    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" height="35" />
 </p>
 
 <br/><br/>
@@ -37,12 +37,12 @@
 
 <img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/service-bell.png" />
 <p align="left">
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/services/npm.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/services/azure.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/services/nuget.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/services/swagger.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/services/docker.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/services/office_365.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/services/npm.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/services/azure.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/services/nuget.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/services/swagger.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/services/docker.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/services/office_365.svg" height="35" />
 </p>
 
 <br/>
@@ -50,13 +50,13 @@
 ### 𝚃𝚘𝚘𝚕𝚜
 <img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/maintenance.png" />
 <p align="left">
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/tools/visualstudio.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/tools/visualstudiocode.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/tools/jetbrains_intellij.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/tools/androidstudio.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/tools/jetbrains_rider.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/tools/docker.svg" height="35" />
-  <img src="https://github.com/larrycaw/ColoredBadges/tree/master/svg/dev/tools/bash.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/tools/visualstudiocode.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/tools/androidstudio.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/tools/jetbrains_rider.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/tools/docker.svg" height="35" />
+  <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/tools/bash.svg" height="35" />
 </p>
 
 <br/>
