@@ -13,7 +13,6 @@
     <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/js.svg" height="35" />
     <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/html.svg" height="35" />
     <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/css3.svg" height="35" />
-    <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/mysql.svg" height="35" />
     <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/dart.svg" height="35" />
     <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/php.svg" height="35" />
     <img src="https://github.com/larrycaw/ColoredBadges/blob/master/svg/dev/languages/python.svg" height="35" />
