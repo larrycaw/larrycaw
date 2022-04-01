@@ -61,7 +61,7 @@
 
 ## 📈 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 <!--<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/graph.png"/>-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larrycaw&hide=html,css,vue&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larrycaw&hide=html,css,vue,ruby&theme=tokyonight)
 
 
 ## 📬 𝙲𝚘𝚗𝚝𝚊𝚌𝚝
