@@ -61,9 +61,8 @@
 
 ## 📈 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 <!--<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/graph.png"/>-->
-<a href="#">
-    ![Isak's GitHub stats] (https://github-readme-stats.vercel.app/api?username=larrycaw&show_icons=true&theme=radical)
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larrycaw&theme=tokyonight)
+
 
 ## 📬 𝙲𝚘𝚗𝚝𝚊𝚌𝚝
 <!--<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/mailbox-with-letter.png">-->
