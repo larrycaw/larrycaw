@@ -62,7 +62,7 @@
 ## 📈 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 <!--<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/graph.png"/>-->
 <a href="#">
-  <img alt="Isak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrycaw&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=F8D866&hide=Jupyter%20Notebook" height="250"/>
+    ![Isak's GitHub stats](https://github-readme-stats.vercel.app/api?username=larrycaw&show_icons=true&theme=radical)
 </a>
 
 ## 📬 𝙲𝚘𝚗𝚝𝚊𝚌𝚝
@@ -83,4 +83,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  <img alt="Isak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrycaw&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=F8D866&hide=Jupyter%20Notebook" height="250"/>
+
+
 -->
